@@ -10,7 +10,7 @@ Solution:
 1. Use a fast and slow pointer to detect a cycle.
 2. Count the number of nodes in the cycle. 
 3. Use 2 pointers start,slowptr. 
-4.Start both from the head. Move start the number of nodes in the cycle times ahead of slowptr. Then move both of them together until the start->next=slowptr.
+4. Start both from the head. Move start the number of nodes in the cycle times ahead of slowptr. Then move both of them together until the start->next=slowptr.
 5. slowptr is the answer.
 
 Time Complexity: O(n)
