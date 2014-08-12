@@ -7,7 +7,8 @@ For example,
 Given 1->1->2, return 1->2.
 Given 1->1->2->3->3, return 1->2->3.
 
-Solution: Iterate over each element in the linkedlist to check if the current->next->val==current->val. If yes,delete that node.
+Solution: Iterate over each element in the linkedlist to check if the current->next->val==current->val.
+If yes,delete that node.
 
 Time Complexity: O(n)
 
