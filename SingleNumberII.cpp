@@ -7,7 +7,8 @@ Note:
 Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 
 
-Solution: Assuming the intergers are 32bit, we count the number of set bits in each bitpositions. If the number of setbits are a multiple of 3 then the result bit for that bitposition is 0 else it is 1.
+Solution: Assuming the intergers are 32bit, we count the number of set bits in each bitpositions.
+If the number of setbits are a multiple of 3 then the result bit for that bitposition is 0 else it is 1.
 
 Time Complexity: O(n)
 
