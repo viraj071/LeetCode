@@ -10,7 +10,8 @@ Solution: Merge of Merge Sort
 
 Time Complexity: O(m+n)
 
-Space Complexity: O(1) because A already has space to store elements of B. If it did not, then the space complexity would be O(m+n).
+Space Complexity: O(1) because A already has space to store elements of B. If it did not, then the space complexity would be O(m+n) 
+to create a new array.
 */
 
 class Solution {
