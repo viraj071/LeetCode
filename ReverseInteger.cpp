@@ -23,8 +23,9 @@ Solution: Convert the integer to string using stringstream.
 1b.If integer is positive,reverse the whole string.
 2. Convert string to integer using stringstream.
 
-Time Complexity: O(1)
-Space Complexity: O(1)
+Time Complexity: O(n)
+Space Complexity: O(n)
+where n is the number of digits in the integer.
 */
 
 class Solution {
