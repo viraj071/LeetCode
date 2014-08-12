@@ -3,7 +3,8 @@ Problem: Convert Sorted Array to Binary Search Tree
 
 Given an array where elements are sorted in ascending order, convert it to a height balanced BST.
 
-Solution: Middle element will be room and recursively call the left half of the array and right half of the array to get the left child of root and the right child of root respectively.
+Solution: Middle element will be room and recursively call the left half of the array and right half of the array
+to get the left child of root and the right child of root respectively.
 
 Time Complexity: O(n)
 
