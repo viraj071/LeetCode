@@ -11,7 +11,7 @@ Solution: Backtracking
 
 Time Complexity: O(n*n!)
 
-Space Complexity: O(n*n!)
+Space Complexity: O(n)
 */
 
 class Solution {
