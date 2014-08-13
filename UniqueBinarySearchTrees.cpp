@@ -14,7 +14,7 @@ Given n = 3, there are a total of 5 unique BST's.
 
 Solution: Formula based.
 
-Time Complexity: O(n)
+Time Complexity: O(n*n)
 
 Space Complexity: O(n)
 	
